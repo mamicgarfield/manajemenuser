@@ -18,7 +18,6 @@
             <div id="hitungmundur" class="mt-3 font-weight-bold"></div>
 
             <hr>
-            <!-- default tombol disembunyikan -->
             <a href="<?= base_url('/') ?>" id="kembaliKeHalamanLogin" class="btn btn-secondary btn-sm d-none">Kembali ke Halaman Login</a>
         </div>
     </div>

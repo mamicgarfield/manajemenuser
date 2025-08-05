@@ -9,9 +9,7 @@
     <div class="card">
         <div class="card-body login-card-body">
             <p class="login-box-msg">Login untuk melanjutkan proses</p>
-            <!-- Idv pesan error defaulnya kita sembunyina dengan menambah kelas d-none ( di bootstrap d-none adalah menyembunyikan) -->
             <div id="pesan_error" class="alert alert-danger d-none"></div>
-            <!-- focus form -->
             <form id="formLogin">
                 <div class="input-group mb-3">
                     <input type="text" class="form-control" placeholder="Email atau Username" name="credential">
@@ -30,8 +28,6 @@
                     </div>
                 </div>
             </form>
-
-            <!-- focus end -->
             <div class="row">
                 <div class="col-4">
                     <button type="button" class="btn btn-primary btn-block" id="loginbtn">Masuk</button>

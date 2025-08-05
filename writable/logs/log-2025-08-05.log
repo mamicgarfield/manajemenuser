@@ -346,3 +346,6 @@ Can't find a route for 'GET: fdsfadsf'.
 [Method: GET, Route: fdsfadsf]
 in APPPATH\Libraries\not_found_404.php on line 20.
  1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2025-08-05 07:22:27 --> CSRF token verified.
+INFO - 2025-08-05 07:24:47 --> CSRF token verified.
+INFO - 2025-08-05 07:29:34 --> CSRF token verified.

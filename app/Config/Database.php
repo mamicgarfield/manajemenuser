@@ -29,7 +29,7 @@ class Database extends Config
         'hostname'     => 'localhost',
         'username'     => 'postgres',
         'password'     => 'mamicg0011',
-        'database'     => 'manajemenuser_db',
+        'database'     => 'dta2025',
         'DBDriver'     => 'Postgre',
         'DBPrefix'     => '',
         'pConnect'     => false,
